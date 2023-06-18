@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**Knirkeli/Knirkeli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Eirik Kirkeli. Im a student at Noroff Vocational College.
+I study to become a frontend developer, and am half way trough.
 
-Here are some ideas to get you started:
+The skills i have aquired this year is:
+Design and design prinsiples. How to visualize a project using figma.
+Html. The basis of the web is facinating to learn and implement.
+CSS. Styling with css transforms the page and lets you form it the way you want
+Java Script. JavaScript allows me to add interactivity and dynamic behavior to my web pages
+And some PHP. enables me to create server-side functionality and interact with databases
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Im looking forward to digg deeper into the world of Frontend development the comming school year.
+
+📫 Contact me at https://www.facebook.com/Knirkeli or knirkeli88@msn.com
