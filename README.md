@@ -13,7 +13,7 @@ CSS. Styling with css transforms the page and lets you form it the way you want
 
 Java Script. JavaScript allows me to add interactivity and dynamic behavior to my web pages
 
-And some PHP. enables me to create server-side functionality and interact with databases
+And some PHP. Php enables me to create server-side functionality and interact with databases
 
 Im looking forward to digg deeper into the world of Frontend development the comming school year.
 
