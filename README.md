@@ -3,7 +3,7 @@
 My name is Eirik Kirkeli. Im a student at Noroff Vocational College.
 I study to become a frontend developer.
 
-I have always been creative and full of ideas. With front end, i feel i finally can use my creative potentila to create and build.
+I have always been creative and full of ideas. With front end, i feel i finally can use my creative potential to create and build.
 
 Being able to use the stories i have created with and for my children in my year one exame was fantastic! please take a look at my potfolio to see my work!
 ([https://knirkefridesign.netlify.app/])
