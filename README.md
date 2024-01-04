@@ -17,15 +17,8 @@ Being able to use the stories i have created with and for my children in my year
 <img align="left" alt="Bootstrap" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
 <img align="left" alt="vscode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 <img align="left" alt="php" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
+<img align="left" alt="php" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 
-##The skills i have aquired this year are:
-
-- Design and design prinsiples. How to visualize a project using figma.
-- Html. The basis of the web is facinating to learn and implement.
-- CSS. Styling with css transforms the page and lets you form it the way you want.
-    - using css frameworks to quicly build responsive and functional websites.
-- Java Script. JavaScript allows me to add interactivity and dynamic behavior to my web pages.
-- And some PHP. Php enables me to create server-side functionality and interact with databases.
 
 Im looking forward to digg deeper into the world of Frontend development the comming school year.
 
