@@ -19,7 +19,8 @@ Being able to use the stories i have created with and for my children in my year
 <img align="left" alt="php" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
 <img align="left" alt="php" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 
-<br>
+<br />
+<br />
 
 Im looking forward to digg deeper into the world of Frontend development the comming school year.
 
