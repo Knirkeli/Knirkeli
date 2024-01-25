@@ -8,7 +8,8 @@ I have always been creative and full of ideas. With front end, i feel i finally 
 Being able to use the stories i have created with and for my children in my year one exame was fantastic! please take a look at my potfolio to see my work!
 ([https://knirkefridesign.netlify.app/])
 
-Currently learning Sanity.io and express.js. 
+Currently learning Sanity.io and express.js.
+
 Currently working on Frontend and backend of: https://github.com/NoroffFEU/agency.noroff.dev
 
 ## Tech Stack
