@@ -10,7 +10,7 @@ Being able to use the stories i have created with and for my children in my year
 
 Currently learning Sanity.io and express.js.
 
-Currently working on Frontend and backend of: https://github.com/NoroffFEU/agency.noroff.dev
+Currently working on my final exam: https://github.com/Knirkeli/SalmonBeds. An accommodation web page that lets users list their properties for rent or rent available properties.
 
 ## Tech Stack
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
