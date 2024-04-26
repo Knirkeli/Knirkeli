@@ -26,6 +26,4 @@ Currently working on my final exam: https://github.com/Knirkeli/SalmonBeds. An a
 <br />
 <br />
 
-Im looking forward to digg deeper into the world of Frontend development the comming school year.
-
 📫 Contact me at ([https://www.linkedin.com/in/eirik-kirkeli/])i or ([knirkeli88@msn.com])
