@@ -1,16 +1,17 @@
 # Hi there 👋
 
-My name is Eirik Kirkeli. Im a student at Noroff Vocational College.
-I study to become a frontend developer.
+My name is Eirik Kirkeli.
+I am a front end developer from Bergen Currently living in Stord
 
 I have always been creative and full of ideas. With front end, i feel i finally can use my creative potential to create and build.
 
 Being able to use the stories i have created with and for my children in my year one exame was fantastic! please take a look at my potfolio to see my work!
 ([https://knirkefridesign.netlify.app/])
 
-Currently learning Sanity.io and express.js.
+Currently learning Sanity.io and working on a website for Sunnhordland Brettspelklubb.
 
-Currently working on my final exam: https://github.com/Knirkeli/SalmonBeds. An accommodation web page that lets users list their properties for rent or rent available properties.
+https://sunnbrett.vercel.app/ (Undergoing testing)
+
 
 ## Tech Stack
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
