@@ -6,7 +6,7 @@ I am a front end developer from Bergen Currently living in Stord
 I have always been creative and full of ideas. With front end, i feel i finally can use my creative potential to create and build.
 
 Being able to use the stories i have created with and for my children in my year one exame was fantastic! please take a look at my potfolio to see my work!
-([https://knirkefridesign.netlify.app/])
+([https://knirkefridesign.netlify.app/]) (All projects not present. Is being rebuilt with Next, Tailwind and Sanity.io as CMS)
 
 Currently learning Sanity.io and working on a website for Sunnhordland Brettspelklubb.
 
